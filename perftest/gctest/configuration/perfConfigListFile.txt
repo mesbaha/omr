@@ -17,3 +17,6 @@
 ###############################################################################
 perftest/gctest/configuration/21645_core.20150126.202455.11862202.0001.xml
 perftest/gctest/configuration/24404_core.20140723.091737.5812.0002.xml
+perftest/gctest/configuration/86260_core.20150224.010537.5073.0001.xml
+perftest/gctest/configuration/70328_core.20151209.161109.18440.0001.xml
+perftest/gctest/configuration/72395_core.20150109.134234.17181.0001.xml
